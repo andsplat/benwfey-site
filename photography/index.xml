@@ -5,6 +5,8 @@
     <link>https://benwfey.com/photography/</link>
     <description>Recent content in Photography on Ben W. Fey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://benwfey.com/photography/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+	<managingEditor>Ben W. Fey</managingEditor>
+    <webMaster>Ben W. Fey</webMaster><atom:link href="https://benwfey.com/photography/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

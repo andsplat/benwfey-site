@@ -5,6 +5,8 @@
     <link>https://benwfey.com/tags/</link>
     <description>Recent content in Tags on Ben W. Fey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://benwfey.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+	<managingEditor>Ben W. Fey</managingEditor>
+    <webMaster>Ben W. Fey</webMaster><atom:link href="https://benwfey.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
